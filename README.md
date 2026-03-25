@@ -13,3 +13,25 @@ Japan / Asia
 
 Эффект:
 - ускорение в 2–3 раза
+
+
+# AI Market Analysis (LLM-powered)
+
+## Description
+Проект демонстрирует использование LLM (ChatGPT, Gemini) для анализа международных рынков.
+
+## What it does
+- анализирует новости и отчеты
+- выделяет ключевые тренды
+- формирует аналитические выводы
+
+## Technologies
+- ChatGPT / Gemini / DeepSeek
+- Prompt Engineering
+
+## Results
+- 5 аналитических отчетов
+- ускорение анализа в 4-5 раз
+
+## Author
+Evgeniy Pustovoit
